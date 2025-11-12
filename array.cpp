@@ -90,7 +90,7 @@ function();
 
 
 
-// chnage function`
+// change function`
 #include <iostream>
 using namespace std;
 
